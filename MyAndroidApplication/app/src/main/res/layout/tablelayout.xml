@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:stretchColumns="1">
+    <TableRow>
+
+        <TextView
+            android:padding="3dip"
+            android:text="@string/table_layout_4_open" />
+        <TextView
+            android:text="@string/table_layout_4_open_shortcut"
+            android:gravity="right"
+            android:padding="3dip" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="@string/table_layout_4_save"
+            android:padding="3dip" />
+        <TextView
+            android:text="@string/table_layout_4_save_shortcut"
+            android:gravity="right"
+            android:padding="3dip" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="@string/table_layout_4_saveas"
+            android:padding="3dip" />
+        <TextView
+            android:text="@string/table_layout_4_saveas_shortcut"
+            android:gravity="right"
+            android:padding="3dip" />
+    </TableRow>
+    <TableRow>
+    <TextView
+        android:text="@string/table_layout_4_import"
+        android:padding="3dip" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="@string/table_layout_4_expotr"
+            android:padding="3dip" />
+        <TextView
+            android:text="@string/table_layout_4_expotr_shortcut"
+            android:gravity="right"
+            android:padding="3dip" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="@string/table_layout_4_quit"
+            android:padding="3dip" />
+    </TableRow>
+</TableLayout>

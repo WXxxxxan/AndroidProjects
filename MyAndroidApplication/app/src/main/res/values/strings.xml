@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="table_layout_4_open" >Open...</string>
+    <string name="table_layout_4_open_shortcut" >Ctrl-O</string>
+    <string name="table_layout_4_save">Save...</string>
+    <string name="table_layout_4_save_shortcut">Ctrl-S</string>
+    <string name="table_layout_4_saveas">Save As...</string>
+    <string name="table_layout_4_saveas_shortcut">Ctrl-Shift-S</string>
+    <string name="table_layout_4_import">Import...</string>
+    <string name="table_layout_4_expotr">Export...</string>
+    <string name="table_layout_4_quit">Quit</string>
+    <string name="table_layout_4_expotr_shortcut">Ctrl-E</string>
+</resources>
